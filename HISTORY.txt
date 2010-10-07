@@ -1,0 +1,6 @@
+HISTORY
+=======
+
+2010-10-06 (eleddy)
+-------------------
+* package this as a proper egg for buildoutss
