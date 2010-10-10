@@ -18,7 +18,7 @@ setup(name='meetup_api_client',
       url='',
       license='',
       packages=find_packages(exclude=['ez_setup']),
-      namespace_packages=['meetup'],
+      namespace_packages=['meetupclient'],
       include_package_data=True,
       zip_safe=False,
       install_requires=[
